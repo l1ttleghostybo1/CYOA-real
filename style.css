@@ -1,0 +1,119 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url("genshin.jpeg");
+}
+
+.title{font-family: 'Caveat', cursive;
+      text-align:center;
+       font-size:30px;
+       color:white;
+      }
+
+.name1{
+  font-family: 'Caveat', cursive;
+  font-size:23px;
+  color:black;
+  background-color:white;
+}
+
+.name2{
+  font-family: 'Caveat', cursive;
+  font-size:23px;
+  color:black;
+  background-color:white;
+}
+
+.name3{
+  font-family: 'Caveat', cursive;
+  font-size:23px;
+  color:black;
+  background-color:white;
+}
+
+.name4{
+  font-family: 'Caveat', cursive;
+  font-size:23px;
+  color:black;
+  background-color:white;
+}
+
+.name5{
+  font-family: 'Caveat', cursive;
+  font-size:23px;
+  color:black;
+  background-color:white;
+}
+
+.name6{
+  font-family: 'Caveat', cursive;
+  font-size:23px;
+  color:black;
+  background-color:white;
+}
+
+
+.characters{
+            display:flex;
+            justify-content: space-between;
+            margin-right:100px;
+            margin-left:100px;
+  
+}
+
+
+.characters2{
+            display:flex;
+            justify-content: space-between;
+            margin-right:100px;
+            margin-left:100px;
+  
+}
+
+
+button{
+  background:transparent;
+  
+}
+
+.claymore{
+  display:none;
+  justify-content:space-evenly;
+}
+
+.sword1{
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  align-items: center;
+}
+.sword2{
+  display:flex;
+  flex-direction: column;
+  width:250px;
+  align-items: center;
+}
+.sword3{
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  align-items: center;
+}
+.sword4{
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  align-items: center;
+}
+.sword5{
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  align-items: center;
+}
+.sword6{
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  align-items: center;
+}
